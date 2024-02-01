@@ -1,5 +1,5 @@
 ### Hi 👋 I'm AFOWOWE FISAYO DORIS
-I'm a passionate front-end developer with a meticulous approach to visual design, ensuring pixel-perfect execution. My expertise lies in crafting responsive web applications with efficiency and precision. I thrive in collaborative environments, where I actively contribute to transforming ideas into vibrant and engaging digital experiences. I recently started writing on medium to document what i learn and it has given me a better understanding of things.
+I'm a passionate front-end developer with a meticulous approach to visual design, ensuring pixel-perfect execution. My expertise lies in crafting responsive web applications with efficiency and precision. I thrive in collaborative environments, contributing to transform ideas into vibrant and engaging digital experiences. I recently started writing on medium to document what i learn and it has given me a better understanding my field.
 
 
 
