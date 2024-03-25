@@ -5,7 +5,7 @@ I'm a passionate front-end developer with a meticulous approach to visual design
 
 
 
-🔭 I’m currently working on a nextjs landing page
+
 - 🌱 I’m currently learning React.js, Next.js, Framer Motion.
 - 📫 How to reach me: fisayodoris@gmail.com
 -  💬 Ask me about anything relating to vanilla CSS
@@ -16,7 +16,7 @@ I'm a passionate front-end developer with a meticulous approach to visual design
 
 Here are some ideas to get you started:
 
-- 
+- 🔭 I’m currently working on a nextjs landing page
 - 🌱 I’m currently learning react.js.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
