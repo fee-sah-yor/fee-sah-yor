@@ -10,6 +10,7 @@ I'm a passionate front-end developer with a meticulous approach to visual design
 - 📫 How to reach me: fisayodoris@gmail.com
 -  💬 Ask me about anything relating to vanilla CSS
 - ⚡ Fun fact: I code design before functionality
+- 👯  Medium: https://medium.com/@fisayodoris
 
 <!--
 **fee-sah-yor/fee-sah-yor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
