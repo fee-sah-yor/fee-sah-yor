@@ -6,7 +6,7 @@ I'm a passionate front-end developer with a meticulous approach to visual design
 
 
 
-- 🌱 I’m currently learning React.js, Next.js, Framer Motion.
+- 🌱 I’m currently learning React Native, Typescript.
 - 📫 How to reach me: fisayodoris@gmail.com
 -  💬 Ask me about anything relating to vanilla CSS
 - ⚡ Fun fact: I code design before functionality
