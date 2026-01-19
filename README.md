@@ -13,6 +13,10 @@ I'm a passionate front-end developer with a meticulous approach to visual design
 - ⚡ Fun fact: I code design before functionality
 - 👯  Medium: https://medium.com/@fisayodoris
 
+## My Mautic Open-source contributor badges
+
+[![An image of @feesahyor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/feesahyor)](https://holopin.io/@feesahyor)
+
 <!--
 **fee-sah-yor/fee-sah-yor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
