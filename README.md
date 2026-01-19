@@ -7,10 +7,8 @@ I'm a passionate front-end developer with a meticulous approach to visual design
 
 
 - 🌱 I’m currently learning React Native and Typescript.
-- 🔭 I’m currently working on a mobile app for resturants and a Nextjs admin page
+- 🔭 I’m currently working on a mobile app for resturants 
 - 📫 How to reach me: fisayodoris@gmail.com
--  💬 Ask me about anything relating to vanilla CSS
-- ⚡ Fun fact: I code design before functionality
 - 👯  Medium: https://medium.com/@fisayodoris
 
 ## My Mautic Open-source contributor badges
