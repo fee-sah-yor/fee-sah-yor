@@ -1,13 +1,13 @@
 ### Hi 👋 I'm AFOWOWE FISAYO DORIS
-I'm a passionate front-end developer with a meticulous approach to visual design, ensuring pixel-perfect execution. My expertise lies in crafting responsive web applications with efficiency and precision. I thrive in collaborative environments, contributing to transform ideas into vibrant and engaging digital experiences. I recently started writing on medium to document what i learn and it has given me a better understanding my field.
+I'm a passionate front-end developer with a meticulous approach to visual design, ensuring pixel-perfect execution. My expertise lies in crafting responsive web applications with efficiency and precision. I thrive in collaborative environments, contributing to transforming ideas into vibrant and engaging digital experiences. I recently started writing on medium to document what i learn and it has given me a better understanding my field.
 
 
 
 
 
 
-- 🌱 I’m currently learning React Native and Typescript.
-- 🔭 I’m currently working on a mobile app for resturants 
+- 🌱 I’m currently working with React Native and Typescript.
+- 🔭 I’m currently maintaining a mobile app for restaurants 
 - 📫 How to reach me: fisayodoris@gmail.com
 - 👯  Medium: https://medium.com/@fisayodoris
 
